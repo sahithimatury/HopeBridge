@@ -39,10 +39,10 @@ Team Igniters
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home_page.jpg)
+![Home Page](screenshots/home_page.jpeg)
 
 ### Current Needs
-![Current Needs](screenshots/current_needs.jpg)
+![Current Needs](screenshots/current_needs.jpeg)
 
 ### Services
-![Services](screenshots/services.jpg)
+![Services](screenshots/services.jpeg)
