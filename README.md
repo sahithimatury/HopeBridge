@@ -36,6 +36,13 @@ Selected among the Top 10 teams during the Global Goals Hackathon.
 
 Team Igniters
 
-## Project Preview
+## Screenshots
 
-![HopeBridge Homepage](screenshots/homepage.png)
+### Home Page
+![Home Page](screenshots/home_page.jpg)
+
+### Current Needs
+![Current Needs](screenshots/current_needs.jpg)
+
+### Services
+![Services](screenshots/services.jpg)
